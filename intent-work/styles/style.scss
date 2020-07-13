@@ -43,7 +43,7 @@ header {
         width: 100%;
         background: #25282b;
         .inner1 {
-            @media screen and (max-width: 997px) {
+            @media screen and (max-width: 854px) {
                 text-align: center;
             }
 
@@ -117,9 +117,13 @@ header {
         .nav-open {
             display: flex;
             flex-direction: column;
-            text-align: right;
+            text-align: left;
             margin-top: 70px;
             z-index: 1;
+            background: rgb(221, 220, 220);
+            width: 120px;
+            height: 120px;
+            border-radius: 20px;
             a {
                 padding: 7px;
             }
