@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Noto Sans TC';
+    src: local('Noto Sans TC Medium'), local('Noto-Sans-TC-Medium'),
+        url('NotoSansTC-Medium-Alphabetic.woff2') format('woff2'),
+        url('NotoSansTC-Medium-Alphabetic.woff') format('woff'),
+        url('NotoSansTC-Medium-Alphabetic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
